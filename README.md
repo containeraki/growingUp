@@ -1,4 +1,4 @@
-# learninghub
+# Learninghub
 
 
 [![InProgress](https://img.shields.io/badge/%F0%9F%9A%80-in--progress-yellow?style=flat-square)]()
