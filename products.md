@@ -1,5 +1,5 @@
 # Documentation
-- [Notion](www.notion.so)
+- [Notion](https://www.notion.so)
 
 
 # Customer Engagement
