@@ -7,6 +7,6 @@
 Opensource contribution to my day to learning  
 
 
+
 ## HOT
-- [WOW - Learning of the Day](./wow.md)
-- [Hackathons](./hackathons.md)
+- [startAD Youth Entrepreneurship Program](https://share.hsforms.com/18Z_fsI-dSQq3CcCwwO2JKQ335f1)
