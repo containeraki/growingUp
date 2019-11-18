@@ -12,4 +12,5 @@ Opensource contribution to my day to learning
 - [startAD Youth Entrepreneurship Program](https://share.hsforms.com/18Z_fsI-dSQq3CcCwwO2JKQ335f1)
 
 
-## Women in Tech
+## Women/Minority in Tech
+- [Rise Program](https://www.colorintech.org/programs/rise)
