@@ -17,3 +17,4 @@ Opensource contribution to my day to learning
 
 
 ## Want to move in Tech?
+ - [Bounty Programs](https://www.hackerone.com/sites/default/files/2019-11/the-beginners-guide-to-bug-bounty-programs.pdf)
