@@ -9,7 +9,6 @@ Opensource contribution to my day to learning
 
 
 ## Hot
-- [startAD Youth Entrepreneurship Program](https://share.hsforms.com/18Z_fsI-dSQq3CcCwwO2JKQ335f1)
 
 
 ## Women/Minority in Tech
@@ -19,3 +18,7 @@ Opensource contribution to my day to learning
 
 ## Want to move in Tech?
  - [Bounty Programs](https://www.hackerone.com/sites/default/files/2019-11/the-beginners-guide-to-bug-bounty-programs.pdf)
+
+
+## Past
+- [startAD Youth Entrepreneurship Program](https://share.hsforms.com/18Z_fsI-dSQq3CcCwwO2JKQ335f1)
