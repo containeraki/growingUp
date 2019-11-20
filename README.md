@@ -13,6 +13,7 @@ Opensource contribution to my day to learning
 
 
 ## Women/Minority in Tech
+- [Johnson & Johnson Leadership Programs](https://www.careers.jnj.com/leadership-development-programs)
 - [Rise Program](https://www.colorintech.org/programs/rise)
 
 
