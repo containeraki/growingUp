@@ -19,6 +19,10 @@ Opensource contribution to my day to learning
 ## Want to move in Tech?
  - [Bounty Programs](https://www.hackerone.com/sites/default/files/2019-11/the-beginners-guide-to-bug-bounty-programs.pdf)
 
+## Move in Cyber Security
+- [Cybersecurity](https://www.cybrary.it/catalog/career-paths/)
+- [SecurityBlue](https://securityblue.team/)
+
 
 ## Past
 - [startAD Youth Entrepreneurship Program](https://share.hsforms.com/18Z_fsI-dSQq3CcCwwO2JKQ335f1)
