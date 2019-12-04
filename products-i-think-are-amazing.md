@@ -1,6 +1,8 @@
+# UI/UX
+- [Figma](https://www.figma.com/)
+
 # Documentation
 - [Notion](https://www.notion.so)
-
 
 # Customer Engagement
 - [Solvvy](https://solvvy.com/)
