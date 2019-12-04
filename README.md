@@ -16,7 +16,7 @@ Opensource contribution to my day to learning in 5 areas - Internships, Cybersec
 
 ## Free Learning Guide(Tech)
  - [Google Learning Path](https://techdevguide.withgoogle.com/)
- - [Some Not so common Programming languages](https://github.com/containeraki/growingUp/blob/master/not-so-common-programming-languages)
+ - [Some Not so common Programming languages](./not-so-common-programming-languages.md)
 
 
 ## Cyber Security & Bounty
